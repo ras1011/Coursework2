@@ -1,0 +1,1143 @@
+Simulation begins...
+Base strike intensity: 10.0
+Stats for arena: 1234567
+Robots in arena:
+ Humanoid R-0   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 75.00/d:0.10/a:0.50]
+Robots in repair line:
+Robots on bench:
+
+Simulating 0 fights
+
+
+Stats for arena: 1234567
+Robots in arena:
+ Humanoid R-0   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 75.00/d:0.10/a:0.50]
+Robots in repair line:
+Robots on bench:
+
+
+Simulating 0 fights
+
+
+Stats for arena: 1234567
+Robots in arena:
+ Humanoid R-0   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 75.00/d:0.10/a:0.50]
+Robots in repair line:
+Robots on bench:
+
+
+Simulating 2 fights
+
+Fight #1:
+  before: CombatPair { Humanoid R-0   [6 parts|e: 85.00/d:0.10/a:0.60] -   Wheeled R-1   [7 parts|e:145.00/d:0.10/a:0.50]}
+R-1 is hit with strike coeff 0.6 - damage: 5.0
+R-0 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-0   [6 parts|e: 61.00/d:0.10/a:0.60] -   Wheeled R-1   [7 parts|e:110.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair { CycloBot R-2   [4 parts|e: 75.00/d:0.10/a:0.50] -  Humanoid R-3   [6 parts|e: 85.00/d:0.10/a:0.60]}
+R-3 is hit with strike coeff 0.5 - damage: 4.0
+R-2 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-2   [4 parts|e: 55.00/d:0.10/a:0.50] -  Humanoid R-3   [6 parts|e: 61.00/d:0.10/a:0.60]}
+
+Stats for arena: 1234567
+Robots in arena:
+  Wheeled R-4   [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 61.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e:110.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 55.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e: 61.00/d:0.10/a:0.60]
+Robots in repair line:
+Robots on bench:
+
+
+Simulating 3 fights
+
+Fight #1:
+  before: CombatPair {  Wheeled R-4   [7 parts|e:145.00/d:0.10/a:0.50] -  CycloBot R-5   [4 parts|e: 75.00/d:0.10/a:0.50]}
+R-5 is hit with strike coeff 0.5 - damage: 4.0
+R-4 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-4   [7 parts|e:117.00/d:0.10/a:0.50] -  CycloBot R-5   [4 parts|e: 59.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair { Humanoid R-6   [6 parts|e: 85.00/d:0.10/a:0.60] -   Wheeled R-7   [7 parts|e:145.00/d:0.10/a:0.50]}
+R-7 is hit with strike coeff 0.6 - damage: 5.0
+R-6 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-6   [6 parts|e: 61.00/d:0.10/a:0.60] -   Wheeled R-7   [7 parts|e:110.00/d:0.10/a:0.50]}
+Fight #3:
+  before: CombatPair { CycloBot R-8   [4 parts|e: 75.00/d:0.10/a:0.50] -  Humanoid R-9   [6 parts|e: 85.00/d:0.10/a:0.60]}
+R-9 is hit with strike coeff 0.5 - damage: 4.0
+R-8 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-8   [4 parts|e: 55.00/d:0.10/a:0.50] -  Humanoid R-9   [6 parts|e: 61.00/d:0.10/a:0.60]}
+
+Stats for arena: 1234567
+Robots in arena:
+  Wheeled R-10  [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e:145.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 61.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e:110.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 55.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e: 61.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e:117.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 59.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 61.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e:110.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 55.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e: 61.00/d:0.10/a:0.60]
+Robots in repair line:
+Robots on bench:
+
+
+Simulating 3 fights
+
+Fight #1:
+  before: CombatPair {  Wheeled R-10  [7 parts|e:145.00/d:0.10/a:0.50] -  CycloBot R-11  [4 parts|e: 75.00/d:0.10/a:0.50]}
+R-11 is hit with strike coeff 0.5 - damage: 4.0
+R-10 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-10  [7 parts|e:117.00/d:0.10/a:0.50] -  CycloBot R-11  [4 parts|e: 59.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair { Humanoid R-12  [6 parts|e: 85.00/d:0.10/a:0.60] -   Wheeled R-13  [7 parts|e:145.00/d:0.10/a:0.50]}
+R-13 is hit with strike coeff 0.6 - damage: 5.0
+R-12 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-12  [6 parts|e: 61.00/d:0.10/a:0.60] -   Wheeled R-13  [7 parts|e:110.00/d:0.10/a:0.50]}
+Fight #3:
+  before: CombatPair { CycloBot R-14  [4 parts|e: 75.00/d:0.10/a:0.50] -  Humanoid R-0   [6 parts|e: 61.00/d:0.10/a:0.60]}
+R-0 is hit with strike coeff 0.5 - damage: 4.0
+R-14 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-14  [4 parts|e: 55.00/d:0.10/a:0.50] -  Humanoid R-0   [6 parts|e: 43.00/d:0.10/a:0.60]}
+
+Stats for arena: 1234567
+Robots in arena:
+  Wheeled R-1   [7 parts|e:110.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 55.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e: 61.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e:117.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 59.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 61.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e:110.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 55.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e: 61.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e:117.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 59.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e: 61.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e:110.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 55.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 43.00/d:0.10/a:0.60]
+Robots in repair line:
+Robots on bench:
+
+
+Simulating 3 fights
+
+Fight #1:
+  before: CombatPair {  Wheeled R-1   [7 parts|e:110.00/d:0.10/a:0.50] -  CycloBot R-2   [4 parts|e: 55.00/d:0.10/a:0.50]}
+R-2 is hit with strike coeff 0.5 - damage: 4.0
+R-1 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-1   [7 parts|e: 82.00/d:0.10/a:0.50] -  CycloBot R-2   [4 parts|e: 39.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair { Humanoid R-3   [6 parts|e: 61.00/d:0.10/a:0.60] -   Wheeled R-4   [7 parts|e:117.00/d:0.10/a:0.50]}
+R-4 is hit with strike coeff 0.6 - damage: 5.0
+R-3 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-3   [6 parts|e: 43.00/d:0.10/a:0.60] -   Wheeled R-4   [7 parts|e: 82.00/d:0.10/a:0.50]}
+Fight #3:
+  before: CombatPair { CycloBot R-5   [4 parts|e: 59.00/d:0.10/a:0.50] -  Humanoid R-6   [6 parts|e: 61.00/d:0.10/a:0.60]}
+R-6 is hit with strike coeff 0.5 - damage: 4.0
+R-5 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-5   [4 parts|e: 39.00/d:0.10/a:0.50] -  Humanoid R-6   [6 parts|e: 43.00/d:0.10/a:0.60]}
+
+Stats for arena: 1234567
+Robots in arena:
+  Wheeled R-7   [7 parts|e:110.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 55.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e: 61.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e:117.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 59.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e: 61.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e:110.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 55.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 43.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 82.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 39.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e: 43.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e: 82.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 39.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 43.00/d:0.10/a:0.60]
+Robots in repair line:
+Robots on bench:
+
+
+Simulating 6 fights
+
+Fight #1:
+  before: CombatPair {  Wheeled R-7   [7 parts|e:110.00/d:0.10/a:0.50] -  CycloBot R-8   [4 parts|e: 55.00/d:0.10/a:0.50]}
+R-8 is hit with strike coeff 0.5 - damage: 4.0
+R-7 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-7   [7 parts|e: 82.00/d:0.10/a:0.50] -  CycloBot R-8   [4 parts|e: 39.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair { Humanoid R-9   [6 parts|e: 61.00/d:0.10/a:0.60] -   Wheeled R-10  [7 parts|e:117.00/d:0.10/a:0.50]}
+R-10 is hit with strike coeff 0.6 - damage: 5.0
+R-9 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-9   [6 parts|e: 43.00/d:0.10/a:0.60] -   Wheeled R-10  [7 parts|e: 82.00/d:0.10/a:0.50]}
+Fight #3:
+  before: CombatPair { CycloBot R-11  [4 parts|e: 59.00/d:0.10/a:0.50] -  Humanoid R-12  [6 parts|e: 61.00/d:0.10/a:0.60]}
+R-12 is hit with strike coeff 0.5 - damage: 4.0
+R-11 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-11  [4 parts|e: 39.00/d:0.10/a:0.50] -  Humanoid R-12  [6 parts|e: 43.00/d:0.10/a:0.60]}
+Fight #4:
+  before: CombatPair {  Wheeled R-13  [7 parts|e:110.00/d:0.10/a:0.50] -  CycloBot R-14  [4 parts|e: 55.00/d:0.10/a:0.50]}
+R-14 is hit with strike coeff 0.5 - damage: 4.0
+R-13 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-13  [7 parts|e: 82.00/d:0.10/a:0.50] -  CycloBot R-14  [4 parts|e: 39.00/d:0.10/a:0.50]}
+Fight #5:
+  before: CombatPair { Humanoid R-0   [6 parts|e: 43.00/d:0.10/a:0.60] -   Wheeled R-1   [7 parts|e: 82.00/d:0.10/a:0.50]}
+R-1 is hit with strike coeff 0.6 - damage: 5.0
+R-0 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-0   [6 parts|e: 31.00/d:0.10/a:0.60] -   Wheeled R-1   [7 parts|e: 67.00/d:0.10/a:0.50]}
+Fight #6:
+  before: CombatPair { CycloBot R-2   [4 parts|e: 39.00/d:0.10/a:0.50] -  Humanoid R-3   [6 parts|e: 43.00/d:0.10/a:0.60]}
+R-3 is hit with strike coeff 0.5 - damage: 4.0
+R-2 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-2   [4 parts|e: 27.00/d:0.10/a:0.50] -  Humanoid R-3   [6 parts|e: 31.00/d:0.10/a:0.60]}
+
+Stats for arena: 1234567
+Robots in arena:
+  Wheeled R-4   [7 parts|e: 82.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 39.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 43.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e: 82.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 39.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e: 43.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 82.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 39.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e: 43.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e: 82.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 39.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 31.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 67.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 27.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e: 31.00/d:0.10/a:0.60]
+Robots in repair line:
+Robots on bench:
+
+
+Simulating 4 fights
+
+Fight #1:
+  before: CombatPair {  Wheeled R-4   [7 parts|e: 82.00/d:0.10/a:0.50] -  CycloBot R-5   [4 parts|e: 39.00/d:0.10/a:0.50]}
+R-5 is hit with strike coeff 0.5 - damage: 4.0
+R-4 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-4   [7 parts|e: 69.00/d:0.10/a:0.50] -  CycloBot R-5   [4 parts|e: 29.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair { Humanoid R-6   [6 parts|e: 43.00/d:0.10/a:0.60] -   Wheeled R-7   [7 parts|e: 82.00/d:0.10/a:0.50]}
+R-7 is hit with strike coeff 0.6 - damage: 5.0
+R-6 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-6   [6 parts|e: 31.00/d:0.10/a:0.60] -   Wheeled R-7   [7 parts|e: 67.00/d:0.10/a:0.50]}
+Fight #3:
+  before: CombatPair { CycloBot R-8   [4 parts|e: 39.00/d:0.10/a:0.50] -  Humanoid R-9   [6 parts|e: 43.00/d:0.10/a:0.60]}
+R-9 is hit with strike coeff 0.5 - damage: 4.0
+R-8 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-8   [4 parts|e: 27.00/d:0.10/a:0.50] -  Humanoid R-9   [6 parts|e: 31.00/d:0.10/a:0.60]}
+Fight #4:
+  before: CombatPair {  Wheeled R-10  [7 parts|e: 82.00/d:0.10/a:0.50] -  CycloBot R-11  [4 parts|e: 39.00/d:0.10/a:0.50]}
+R-11 is hit with strike coeff 0.5 - damage: 4.0
+R-10 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-10  [7 parts|e: 69.00/d:0.10/a:0.50] -  CycloBot R-11  [4 parts|e: 29.00/d:0.10/a:0.50]}
+
+Stats for arena: 1234567
+Robots in arena:
+ Humanoid R-12  [6 parts|e: 43.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e: 82.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 39.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 31.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 67.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 27.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e: 31.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e: 69.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 29.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 31.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e: 67.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 27.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e: 31.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 69.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 29.00/d:0.10/a:0.50]
+Robots in repair line:
+Robots on bench:
+
+
+Simulating 5 fights
+
+Fight #1:
+  before: CombatPair { Humanoid R-12  [6 parts|e: 43.00/d:0.10/a:0.60] -   Wheeled R-13  [7 parts|e: 82.00/d:0.10/a:0.50]}
+R-13 is hit with strike coeff 0.6 - damage: 5.0
+R-12 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-12  [6 parts|e: 31.00/d:0.10/a:0.60] -   Wheeled R-13  [7 parts|e: 67.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair { CycloBot R-14  [4 parts|e: 39.00/d:0.10/a:0.50] -  Humanoid R-0   [6 parts|e: 31.00/d:0.10/a:0.60]}
+R-0 is hit with strike coeff 0.5 - damage: 4.0
+R-14 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-14  [4 parts|e: 27.00/d:0.10/a:0.50] -  Humanoid R-0   [6 parts|e: 23.00/d:0.10/a:0.60]}
+Fight #3:
+  before: CombatPair {  Wheeled R-1   [7 parts|e: 67.00/d:0.10/a:0.50] -  CycloBot R-2   [4 parts|e: 27.00/d:0.10/a:0.50]}
+R-2 is hit with strike coeff 0.5 - damage: 4.0
+R-1 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-1   [7 parts|e: 59.00/d:0.10/a:0.50] -  CycloBot R-2   [4 parts|e: 19.00/d:0.10/a:0.50]}
+Fight #4:
+  before: CombatPair { Humanoid R-3   [6 parts|e: 31.00/d:0.10/a:0.60] -   Wheeled R-4   [7 parts|e: 69.00/d:0.10/a:0.50]}
+R-4 is hit with strike coeff 0.6 - damage: 5.0
+R-3 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-3   [6 parts|e: 23.00/d:0.10/a:0.60] -   Wheeled R-4   [7 parts|e: 59.00/d:0.10/a:0.50]}
+Fight #5:
+  before: CombatPair { CycloBot R-5   [4 parts|e: 29.00/d:0.10/a:0.50] -  Humanoid R-6   [6 parts|e: 31.00/d:0.10/a:0.60]}
+R-6 is hit with strike coeff 0.5 - damage: 4.0
+R-5 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-5   [4 parts|e: 19.00/d:0.10/a:0.50] -  Humanoid R-6   [6 parts|e: 23.00/d:0.10/a:0.60]}
+
+Stats for arena: 1234567
+Robots in arena:
+  Wheeled R-7   [7 parts|e: 67.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 27.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e: 31.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 69.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 29.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e: 31.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e: 67.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 27.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 23.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 19.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e: 23.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 19.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 23.00/d:0.10/a:0.60]
+Robots in repair line:
+Robots on bench:
+
+
+Simulating 1 fights
+
+Fight #1:
+  before: CombatPair {  Wheeled R-7   [7 parts|e: 67.00/d:0.10/a:0.50] -  CycloBot R-8   [4 parts|e: 27.00/d:0.10/a:0.50]}
+R-8 is hit with strike coeff 0.5 - damage: 4.0
+R-7 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-7   [7 parts|e: 59.00/d:0.10/a:0.50] -  CycloBot R-8   [4 parts|e: 19.00/d:0.10/a:0.50]}
+
+Stats for arena: 1234567
+Robots in arena:
+ Humanoid R-9   [6 parts|e: 31.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 69.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 29.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e: 31.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e: 67.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 27.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 23.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 19.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e: 23.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 19.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 23.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 19.00/d:0.10/a:0.50]
+Robots in repair line:
+Robots on bench:
+
+
+Simulating 0 fights
+
+
+Stats for arena: 1234567
+Robots in arena:
+ Humanoid R-9   [6 parts|e: 31.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 69.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 29.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e: 31.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e: 67.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 27.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 23.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 19.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e: 23.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 19.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 23.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 19.00/d:0.10/a:0.50]
+Robots in repair line:
+Robots on bench:
+
+
+Simulating 6 fights
+
+Fight #1:
+  before: CombatPair { Humanoid R-9   [6 parts|e: 31.00/d:0.10/a:0.60] -   Wheeled R-10  [7 parts|e: 69.00/d:0.10/a:0.50]}
+R-10 is hit with strike coeff 0.6 - damage: 5.0
+R-9 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-9   [6 parts|e: 23.00/d:0.10/a:0.60] -   Wheeled R-10  [7 parts|e: 59.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair { CycloBot R-11  [4 parts|e: 29.00/d:0.10/a:0.50] -  Humanoid R-12  [6 parts|e: 31.00/d:0.10/a:0.60]}
+R-12 is hit with strike coeff 0.5 - damage: 4.0
+R-11 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-11  [4 parts|e: 19.00/d:0.10/a:0.50] -  Humanoid R-12  [6 parts|e: 23.00/d:0.10/a:0.60]}
+Fight #3:
+  before: CombatPair {  Wheeled R-13  [7 parts|e: 67.00/d:0.10/a:0.50] -  CycloBot R-14  [4 parts|e: 27.00/d:0.10/a:0.50]}
+R-14 is hit with strike coeff 0.5 - damage: 4.0
+R-13 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-13  [7 parts|e: 59.00/d:0.10/a:0.50] -  CycloBot R-14  [4 parts|e: 19.00/d:0.10/a:0.50]}
+Fight #4:
+  before: CombatPair { Humanoid R-0   [6 parts|e: 23.00/d:0.10/a:0.60] -   Wheeled R-1   [7 parts|e: 59.00/d:0.10/a:0.50]}
+R-1 is hit with strike coeff 0.6 - damage: 5.0
+R-0 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-0   [6 parts|e: 15.00/d:0.10/a:0.60] -   Wheeled R-1   [7 parts|e: 49.00/d:0.10/a:0.50]}
+Fight #5:
+  before: CombatPair { CycloBot R-2   [4 parts|e: 19.00/d:0.10/a:0.50] -  Humanoid R-3   [6 parts|e: 23.00/d:0.10/a:0.60]}
+R-3 is hit with strike coeff 0.5 - damage: 4.0
+R-2 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-2   [4 parts|e:  9.00/d:0.10/a:0.50] -  Humanoid R-3   [6 parts|e: 15.00/d:0.10/a:0.60]}
+Fight #6:
+  before: CombatPair {  Wheeled R-4   [7 parts|e: 59.00/d:0.10/a:0.50] -  CycloBot R-5   [4 parts|e: 19.00/d:0.10/a:0.50]}
+R-5 is hit with strike coeff 0.5 - damage: 4.0
+R-4 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-4   [7 parts|e: 51.00/d:0.10/a:0.50] -  CycloBot R-5   [4 parts|e: 11.00/d:0.10/a:0.50]}
+
+Stats for arena: 1234567
+Robots in arena:
+ Humanoid R-6   [6 parts|e: 23.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 19.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e: 23.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 19.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e: 23.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 19.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 15.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 49.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e:  9.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e: 15.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e: 51.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 11.00/d:0.10/a:0.50]
+Robots in repair line:
+Robots on bench:
+
+
+Simulating 3 fights
+
+Fight #1:
+  before: CombatPair { Humanoid R-6   [6 parts|e: 23.00/d:0.10/a:0.60] -   Wheeled R-7   [7 parts|e: 59.00/d:0.10/a:0.50]}
+R-7 is hit with strike coeff 0.6 - damage: 5.0
+R-6 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-6   [6 parts|e: 15.00/d:0.10/a:0.60] -   Wheeled R-7   [7 parts|e: 49.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair { CycloBot R-8   [4 parts|e: 19.00/d:0.10/a:0.50] -  Humanoid R-9   [6 parts|e: 23.00/d:0.10/a:0.60]}
+R-9 is hit with strike coeff 0.5 - damage: 4.0
+R-8 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-8   [4 parts|e:  9.00/d:0.10/a:0.50] -  Humanoid R-9   [6 parts|e: 15.00/d:0.10/a:0.60]}
+Fight #3:
+  before: CombatPair {  Wheeled R-10  [7 parts|e: 59.00/d:0.10/a:0.50] -  CycloBot R-11  [4 parts|e: 19.00/d:0.10/a:0.50]}
+R-11 is hit with strike coeff 0.5 - damage: 4.0
+R-10 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-10  [7 parts|e: 51.00/d:0.10/a:0.50] -  CycloBot R-11  [4 parts|e: 11.00/d:0.10/a:0.50]}
+
+Stats for arena: 1234567
+Robots in arena:
+ Humanoid R-12  [6 parts|e: 23.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 19.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 15.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 49.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e:  9.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e: 15.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e: 51.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 11.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 15.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e: 49.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e:  9.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e: 15.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 51.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 11.00/d:0.10/a:0.50]
+Robots in repair line:
+Robots on bench:
+
+
+Simulating 2 fights
+
+Fight #1:
+  before: CombatPair { Humanoid R-12  [6 parts|e: 23.00/d:0.10/a:0.60] -   Wheeled R-13  [7 parts|e: 59.00/d:0.10/a:0.50]}
+R-13 is hit with strike coeff 0.6 - damage: 5.0
+R-12 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-12  [6 parts|e: 15.00/d:0.10/a:0.60] -   Wheeled R-13  [7 parts|e: 49.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair { CycloBot R-14  [4 parts|e: 19.00/d:0.10/a:0.50] -  Humanoid R-0   [6 parts|e: 15.00/d:0.10/a:0.60]}
+R-0 is hit with strike coeff 0.5 - damage: 4.0
+R-14 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-14  [4 parts|e:  9.00/d:0.10/a:0.50] -  Humanoid R-0   [6 parts|e:  7.00/d:0.10/a:0.60]}
+
+Stats for arena: 1234567
+Robots in arena:
+  Wheeled R-1   [7 parts|e: 49.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e:  9.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e: 15.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e: 51.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 11.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 15.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e: 49.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e:  9.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e: 15.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 51.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 11.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e: 15.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e: 49.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e:  9.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e:  7.00/d:0.10/a:0.60]
+Robots in repair line:
+Robots on bench:
+
+
+Simulating 2 fights
+
+Fight #1:
+  before: CombatPair {  Wheeled R-1   [7 parts|e: 49.00/d:0.10/a:0.50] -  CycloBot R-2   [4 parts|e:  9.00/d:0.10/a:0.50]}
+R-2 is hit with strike coeff 0.5 - damage: 4.0
+R-1 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-1   [7 parts|e: 43.00/d:0.10/a:0.50] -  CycloBot R-2   [4 parts|e:  3.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair { Humanoid R-3   [6 parts|e: 15.00/d:0.10/a:0.60] -   Wheeled R-4   [7 parts|e: 51.00/d:0.10/a:0.50]}
+R-4 is hit with strike coeff 0.6 - damage: 5.0
+R-3 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-3   [6 parts|e:  7.00/d:0.10/a:0.60] -   Wheeled R-4   [7 parts|e: 43.00/d:0.10/a:0.50]}
+
+Stats for arena: 1234567
+Robots in arena:
+ CycloBot R-5   [4 parts|e: 11.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 15.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e: 49.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e:  9.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e: 15.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 51.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 11.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e: 15.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e: 49.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e:  9.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e:  7.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 43.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e:  3.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e:  7.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e: 43.00/d:0.10/a:0.50]
+Robots in repair line:
+Robots on bench:
+
+
+Simulating 5 fights
+
+Fight #1:
+  before: CombatPair { CycloBot R-5   [4 parts|e: 11.00/d:0.10/a:0.50] -  Humanoid R-6   [6 parts|e: 15.00/d:0.10/a:0.60]}
+R-6 is hit with strike coeff 0.5 - damage: 4.0
+R-5 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-5   [4 parts|e:  3.00/d:0.10/a:0.50] -  Humanoid R-6   [6 parts|e:  7.00/d:0.10/a:0.60]}
+Fight #2:
+  before: CombatPair {  Wheeled R-7   [7 parts|e: 49.00/d:0.10/a:0.50] -  CycloBot R-8   [4 parts|e:  9.00/d:0.10/a:0.50]}
+R-8 is hit with strike coeff 0.5 - damage: 4.0
+R-7 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-7   [7 parts|e: 43.00/d:0.10/a:0.50] -  CycloBot R-8   [4 parts|e:  3.00/d:0.10/a:0.50]}
+Fight #3:
+  before: CombatPair { Humanoid R-9   [6 parts|e: 15.00/d:0.10/a:0.60] -   Wheeled R-10  [7 parts|e: 51.00/d:0.10/a:0.50]}
+R-10 is hit with strike coeff 0.6 - damage: 5.0
+R-9 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-9   [6 parts|e:  7.00/d:0.10/a:0.60] -   Wheeled R-10  [7 parts|e: 43.00/d:0.10/a:0.50]}
+Fight #4:
+  before: CombatPair { CycloBot R-11  [4 parts|e: 11.00/d:0.10/a:0.50] -  Humanoid R-12  [6 parts|e: 15.00/d:0.10/a:0.60]}
+R-12 is hit with strike coeff 0.5 - damage: 4.0
+R-11 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-11  [4 parts|e:  3.00/d:0.10/a:0.50] -  Humanoid R-12  [6 parts|e:  7.00/d:0.10/a:0.60]}
+Fight #5:
+  before: CombatPair {  Wheeled R-13  [7 parts|e: 49.00/d:0.10/a:0.50] -  CycloBot R-14  [4 parts|e:  9.00/d:0.10/a:0.50]}
+R-14 is hit with strike coeff 0.5 - damage: 4.0
+R-13 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-13  [7 parts|e: 43.00/d:0.10/a:0.50] -  CycloBot R-14  [4 parts|e:  3.00/d:0.10/a:0.50]}
+
+Stats for arena: 1234567
+Robots in arena:
+ Humanoid R-0   [6 parts|e:  7.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 43.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e:  3.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e:  7.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e: 43.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e:  3.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e:  7.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e: 43.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e:  3.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e:  7.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 43.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e:  3.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e:  7.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e: 43.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e:  3.00/d:0.10/a:0.50]
+Robots in repair line:
+Robots on bench:
+
+
+Simulating 6 fights
+
+Fight #1:
+  before: CombatPair { Humanoid R-0   [6 parts|e:  7.00/d:0.10/a:0.60] -   Wheeled R-1   [7 parts|e: 43.00/d:0.10/a:0.50]}
+R-1 is hit with strike coeff 0.6 - damage: 5.0
+R-0 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-0   [6 parts|e:  2.00/d:0.10/a:0.60] -   Wheeled R-1   [7 parts|e: 38.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair { CycloBot R-2   [4 parts|e:  3.00/d:0.10/a:0.50] -  Humanoid R-3   [6 parts|e:  7.00/d:0.10/a:0.60]}
+R-3 is hit with strike coeff 0.5 - damage: 4.0
+R-2 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-2   [4 parts|e:  0.00/d:0.10/a:0.50] -  Humanoid R-3   [6 parts|e:  2.00/d:0.10/a:0.60]}
+Fight #3:
+  before: CombatPair {  Wheeled R-4   [7 parts|e: 43.00/d:0.10/a:0.50] -  CycloBot R-5   [4 parts|e:  3.00/d:0.10/a:0.50]}
+R-5 is hit with strike coeff 0.5 - damage: 4.0
+R-4 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-4   [7 parts|e: 39.00/d:0.10/a:0.50] -  CycloBot R-5   [4 parts|e:  0.00/d:0.10/a:0.50]}
+Fight #4:
+  before: CombatPair { Humanoid R-6   [6 parts|e:  7.00/d:0.10/a:0.60] -   Wheeled R-7   [7 parts|e: 43.00/d:0.10/a:0.50]}
+R-7 is hit with strike coeff 0.6 - damage: 5.0
+R-6 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-6   [6 parts|e:  2.00/d:0.10/a:0.60] -   Wheeled R-7   [7 parts|e: 38.00/d:0.10/a:0.50]}
+Fight #5:
+  before: CombatPair { CycloBot R-8   [4 parts|e:  3.00/d:0.10/a:0.50] -  Humanoid R-9   [6 parts|e:  7.00/d:0.10/a:0.60]}
+R-9 is hit with strike coeff 0.5 - damage: 4.0
+R-8 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-8   [4 parts|e:  0.00/d:0.10/a:0.50] -  Humanoid R-9   [6 parts|e:  2.00/d:0.10/a:0.60]}
+Fight #6:
+  before: CombatPair {  Wheeled R-10  [7 parts|e: 43.00/d:0.10/a:0.50] -  CycloBot R-11  [4 parts|e:  3.00/d:0.10/a:0.50]}
+R-11 is hit with strike coeff 0.5 - damage: 4.0
+R-10 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-10  [7 parts|e: 39.00/d:0.10/a:0.50] -  CycloBot R-11  [4 parts|e:  0.00/d:0.10/a:0.50]}
+
+Stats for arena: 1234567
+Robots in arena:
+ Humanoid R-12  [6 parts|e:  7.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e: 43.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e:  3.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e:  2.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 38.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e:  2.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e: 39.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e:  2.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e: 38.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e:  2.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 39.00/d:0.10/a:0.50]
+Robots in repair line:
+ CycloBot R-2   [4 parts|e:  0.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e:  0.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e:  0.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e:  0.00/d:0.10/a:0.50]
+Robots on bench:
+
+
+Simulating 1 fights
+
+Fight #1:
+  before: CombatPair { Humanoid R-12  [6 parts|e:  7.00/d:0.10/a:0.60] -   Wheeled R-13  [7 parts|e: 43.00/d:0.10/a:0.50]}
+R-13 is hit with strike coeff 0.6 - damage: 5.0
+R-12 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-12  [6 parts|e:  2.00/d:0.10/a:0.60] -   Wheeled R-13  [7 parts|e: 38.00/d:0.10/a:0.50]}
+
+Stats for arena: 1234567
+Robots in arena:
+ CycloBot R-14  [4 parts|e:  3.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e:  2.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 38.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e:  2.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e: 39.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e:  2.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e: 38.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e:  2.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 39.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e:  2.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e: 38.00/d:0.10/a:0.50]
+Robots in repair line:
+ CycloBot R-2   [4 parts|e:  0.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e:  0.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e:  0.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e:  0.00/d:0.10/a:0.50]
+Robots on bench:
+
+
+Simulating 0 fights
+
+
+Stats for arena: 1234567
+Robots in arena:
+ CycloBot R-14  [4 parts|e:  3.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e:  2.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 38.00/d:0.10/a:0.50]
+ Humanoid R-3   [6 parts|e:  2.00/d:0.10/a:0.60]
+  Wheeled R-4   [7 parts|e: 39.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e:  2.00/d:0.10/a:0.60]
+  Wheeled R-7   [7 parts|e: 38.00/d:0.10/a:0.50]
+ Humanoid R-9   [6 parts|e:  2.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 39.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e:  2.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e: 38.00/d:0.10/a:0.50]
+Robots in repair line:
+ CycloBot R-8   [4 parts|e:  0.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e:  0.00/d:0.10/a:0.50]
+Robots on bench:
+ CycloBot R-2   [4 parts|e: 75.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 75.00/d:0.10/a:0.50]
+
+
+Simulating 4 fights
+
+Fight #1:
+  before: CombatPair { CycloBot R-14  [4 parts|e:  3.00/d:0.10/a:0.50] -  Humanoid R-0   [6 parts|e:  2.00/d:0.10/a:0.60]}
+R-0 is hit with strike coeff 0.5 - damage: 4.0
+R-14 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-14  [4 parts|e:  0.00/d:0.10/a:0.50] -  Humanoid R-0   [6 parts|e:  0.00/d:0.10/a:0.60]}
+Fight #2:
+  before: CombatPair {  Wheeled R-1   [7 parts|e: 38.00/d:0.10/a:0.50] -  Humanoid R-3   [6 parts|e:  2.00/d:0.10/a:0.60]}
+R-3 is hit with strike coeff 0.5 - damage: 4.0
+R-1 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair {  Wheeled R-1   [7 parts|e: 33.00/d:0.10/a:0.50] -  Humanoid R-3   [6 parts|e:  0.00/d:0.10/a:0.60]}
+Fight #3:
+  before: CombatPair {  Wheeled R-4   [7 parts|e: 39.00/d:0.10/a:0.50] -  Humanoid R-6   [6 parts|e:  2.00/d:0.10/a:0.60]}
+R-6 is hit with strike coeff 0.5 - damage: 4.0
+R-4 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair {  Wheeled R-4   [7 parts|e: 34.00/d:0.10/a:0.50] -  Humanoid R-6   [6 parts|e:  0.00/d:0.10/a:0.60]}
+Fight #4:
+  before: CombatPair {  Wheeled R-7   [7 parts|e: 38.00/d:0.10/a:0.50] -  Humanoid R-9   [6 parts|e:  2.00/d:0.10/a:0.60]}
+R-9 is hit with strike coeff 0.5 - damage: 4.0
+R-7 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair {  Wheeled R-7   [7 parts|e: 33.00/d:0.10/a:0.50] -  Humanoid R-9   [6 parts|e:  0.00/d:0.10/a:0.60]}
+
+Stats for arena: 1234567
+Robots in arena:
+  Wheeled R-10  [7 parts|e: 39.00/d:0.10/a:0.50]
+ Humanoid R-12  [6 parts|e:  2.00/d:0.10/a:0.60]
+  Wheeled R-13  [7 parts|e: 38.00/d:0.10/a:0.50]
+  Wheeled R-1   [7 parts|e: 33.00/d:0.10/a:0.50]
+  Wheeled R-4   [7 parts|e: 34.00/d:0.10/a:0.50]
+  Wheeled R-7   [7 parts|e: 33.00/d:0.10/a:0.50]
+Robots in repair line:
+ CycloBot R-8   [4 parts|e:  0.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e:  0.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e:  0.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e:  0.00/d:0.10/a:0.60]
+ Humanoid R-3   [6 parts|e:  0.00/d:0.10/a:0.60]
+ Humanoid R-6   [6 parts|e:  0.00/d:0.10/a:0.60]
+ Humanoid R-9   [6 parts|e:  0.00/d:0.10/a:0.60]
+Robots on bench:
+ CycloBot R-2   [4 parts|e: 75.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 75.00/d:0.10/a:0.50]
+
+
+Simulating 2 fights
+
+Fight #1:
+  before: CombatPair {  Wheeled R-10  [7 parts|e: 39.00/d:0.10/a:0.50] -  Humanoid R-12  [6 parts|e:  2.00/d:0.10/a:0.60]}
+R-12 is hit with strike coeff 0.5 - damage: 4.0
+R-10 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair {  Wheeled R-10  [7 parts|e: 34.00/d:0.10/a:0.50] -  Humanoid R-12  [6 parts|e:  0.00/d:0.10/a:0.60]}
+Fight #2:
+  before: CombatPair {  Wheeled R-13  [7 parts|e: 38.00/d:0.10/a:0.50] -   Wheeled R-1   [7 parts|e: 33.00/d:0.10/a:0.50]}
+R-1 is hit with strike coeff 0.5 - damage: 4.0
+R-13 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-13  [7 parts|e: 34.00/d:0.10/a:0.50] -   Wheeled R-1   [7 parts|e: 29.00/d:0.10/a:0.50]}
+
+Stats for arena: 1234567
+Robots in arena:
+  Wheeled R-4   [7 parts|e: 34.00/d:0.10/a:0.50]
+  Wheeled R-7   [7 parts|e: 33.00/d:0.10/a:0.50]
+  Wheeled R-10  [7 parts|e: 34.00/d:0.10/a:0.50]
+  Wheeled R-13  [7 parts|e: 34.00/d:0.10/a:0.50]
+  Wheeled R-1   [7 parts|e: 29.00/d:0.10/a:0.50]
+Robots in repair line:
+ CycloBot R-11  [4 parts|e:  0.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e:  0.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e:  0.00/d:0.10/a:0.60]
+ Humanoid R-3   [6 parts|e:  0.00/d:0.10/a:0.60]
+ Humanoid R-6   [6 parts|e:  0.00/d:0.10/a:0.60]
+ Humanoid R-9   [6 parts|e:  0.00/d:0.10/a:0.60]
+ Humanoid R-12  [6 parts|e:  0.00/d:0.10/a:0.60]
+Robots on bench:
+ CycloBot R-2   [4 parts|e: 75.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 75.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 75.00/d:0.10/a:0.50]
+
+
+Simulating 1 fights
+
+Fight #1:
+  before: CombatPair {  Wheeled R-4   [7 parts|e: 34.00/d:0.10/a:0.50] -   Wheeled R-7   [7 parts|e: 33.00/d:0.10/a:0.50]}
+R-7 is hit with strike coeff 0.5 - damage: 4.0
+R-4 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-4   [7 parts|e: 30.00/d:0.10/a:0.50] -   Wheeled R-7   [7 parts|e: 29.00/d:0.10/a:0.50]}
+
+Stats for arena: 1234567
+Robots in arena:
+  Wheeled R-10  [7 parts|e: 34.00/d:0.10/a:0.50]
+  Wheeled R-13  [7 parts|e: 34.00/d:0.10/a:0.50]
+  Wheeled R-1   [7 parts|e: 29.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 75.00/d:0.10/a:0.50]
+  Wheeled R-4   [7 parts|e: 30.00/d:0.10/a:0.50]
+  Wheeled R-7   [7 parts|e: 29.00/d:0.10/a:0.50]
+Robots in repair line:
+ Humanoid R-12  [6 parts|e:  0.00/d:0.10/a:0.60]
+Robots on bench:
+ CycloBot R-5   [4 parts|e: 75.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 75.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 75.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 75.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 85.00/d:0.10/a:0.60]
+ Humanoid R-3   [6 parts|e: 85.00/d:0.10/a:0.60]
+ Humanoid R-6   [6 parts|e: 85.00/d:0.10/a:0.60]
+ Humanoid R-9   [6 parts|e: 85.00/d:0.10/a:0.60]
+
+
+Simulating 5 fights
+
+Fight #1:
+  before: CombatPair {  Wheeled R-10  [7 parts|e: 34.00/d:0.10/a:0.50] -   Wheeled R-13  [7 parts|e: 34.00/d:0.10/a:0.50]}
+R-13 is hit with strike coeff 0.5 - damage: 4.0
+R-10 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-10  [7 parts|e: 30.00/d:0.10/a:0.50] -   Wheeled R-13  [7 parts|e: 30.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair {  Wheeled R-1   [7 parts|e: 29.00/d:0.10/a:0.50] -  CycloBot R-2   [4 parts|e: 75.00/d:0.10/a:0.50]}
+R-2 is hit with strike coeff 0.5 - damage: 4.0
+R-1 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-1   [7 parts|e: 25.00/d:0.10/a:0.50] -  CycloBot R-2   [4 parts|e: 59.00/d:0.10/a:0.50]}
+Fight #3:
+  before: CombatPair {  Wheeled R-4   [7 parts|e: 30.00/d:0.10/a:0.50] -   Wheeled R-7   [7 parts|e: 29.00/d:0.10/a:0.50]}
+R-7 is hit with strike coeff 0.5 - damage: 4.0
+R-4 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-4   [7 parts|e: 26.00/d:0.10/a:0.50] -   Wheeled R-7   [7 parts|e: 25.00/d:0.10/a:0.50]}
+Fight #4:
+  before: CombatPair { CycloBot R-5   [4 parts|e: 75.00/d:0.10/a:0.50] -  CycloBot R-8   [4 parts|e: 75.00/d:0.10/a:0.50]}
+R-8 is hit with strike coeff 0.5 - damage: 4.0
+R-5 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { CycloBot R-5   [4 parts|e: 59.00/d:0.10/a:0.50] -  CycloBot R-8   [4 parts|e: 59.00/d:0.10/a:0.50]}
+Fight #5:
+  before: CombatPair { CycloBot R-11  [4 parts|e: 75.00/d:0.10/a:0.50] -  CycloBot R-14  [4 parts|e: 75.00/d:0.10/a:0.50]}
+R-14 is hit with strike coeff 0.5 - damage: 4.0
+R-11 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { CycloBot R-11  [4 parts|e: 59.00/d:0.10/a:0.50] -  CycloBot R-14  [4 parts|e: 59.00/d:0.10/a:0.50]}
+
+Stats for arena: 1234567
+Robots in arena:
+ Humanoid R-0   [6 parts|e: 85.00/d:0.10/a:0.60]
+ Humanoid R-3   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 30.00/d:0.10/a:0.50]
+  Wheeled R-13  [7 parts|e: 30.00/d:0.10/a:0.50]
+  Wheeled R-1   [7 parts|e: 25.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 59.00/d:0.10/a:0.50]
+  Wheeled R-4   [7 parts|e: 26.00/d:0.10/a:0.50]
+  Wheeled R-7   [7 parts|e: 25.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 59.00/d:0.10/a:0.50]
+Robots in repair line:
+ Humanoid R-12  [6 parts|e:  0.00/d:0.10/a:0.60]
+Robots on bench:
+ Humanoid R-6   [6 parts|e: 85.00/d:0.10/a:0.60]
+ Humanoid R-9   [6 parts|e: 85.00/d:0.10/a:0.60]
+
+
+Simulating 2 fights
+
+Fight #1:
+  before: CombatPair { Humanoid R-0   [6 parts|e: 85.00/d:0.10/a:0.60] -  Humanoid R-3   [6 parts|e: 85.00/d:0.10/a:0.60]}
+R-3 is hit with strike coeff 0.6 - damage: 5.0
+R-0 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { Humanoid R-0   [6 parts|e: 55.00/d:0.10/a:0.60] -  Humanoid R-3   [6 parts|e: 55.00/d:0.10/a:0.60]}
+Fight #2:
+  before: CombatPair {  Wheeled R-10  [7 parts|e: 30.00/d:0.10/a:0.50] -   Wheeled R-13  [7 parts|e: 30.00/d:0.10/a:0.50]}
+R-13 is hit with strike coeff 0.5 - damage: 4.0
+R-10 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-10  [7 parts|e: 26.00/d:0.10/a:0.50] -   Wheeled R-13  [7 parts|e: 26.00/d:0.10/a:0.50]}
+
+Stats for arena: 1234567
+Robots in arena:
+  Wheeled R-1   [7 parts|e: 25.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 59.00/d:0.10/a:0.50]
+  Wheeled R-4   [7 parts|e: 26.00/d:0.10/a:0.50]
+  Wheeled R-7   [7 parts|e: 25.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 59.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 55.00/d:0.10/a:0.60]
+ Humanoid R-3   [6 parts|e: 55.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 26.00/d:0.10/a:0.50]
+  Wheeled R-13  [7 parts|e: 26.00/d:0.10/a:0.50]
+Robots in repair line:
+ Humanoid R-12  [6 parts|e:  0.00/d:0.10/a:0.60]
+Robots on bench:
+ Humanoid R-6   [6 parts|e: 85.00/d:0.10/a:0.60]
+ Humanoid R-9   [6 parts|e: 85.00/d:0.10/a:0.60]
+
+
+Simulating 1 fights
+
+Fight #1:
+  before: CombatPair {  Wheeled R-1   [7 parts|e: 25.00/d:0.10/a:0.50] -  CycloBot R-2   [4 parts|e: 59.00/d:0.10/a:0.50]}
+R-2 is hit with strike coeff 0.5 - damage: 4.0
+R-1 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-1   [7 parts|e: 21.00/d:0.10/a:0.50] -  CycloBot R-2   [4 parts|e: 43.00/d:0.10/a:0.50]}
+
+Stats for arena: 1234567
+Robots in arena:
+  Wheeled R-4   [7 parts|e: 26.00/d:0.10/a:0.50]
+  Wheeled R-7   [7 parts|e: 25.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 59.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 55.00/d:0.10/a:0.60]
+ Humanoid R-3   [6 parts|e: 55.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 26.00/d:0.10/a:0.50]
+  Wheeled R-13  [7 parts|e: 26.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 21.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 43.00/d:0.10/a:0.50]
+Robots in repair line:
+ Humanoid R-12  [6 parts|e:  0.00/d:0.10/a:0.60]
+Robots on bench:
+ Humanoid R-9   [6 parts|e: 85.00/d:0.10/a:0.60]
+
+
+Simulating 2 fights
+
+Fight #1:
+  before: CombatPair {  Wheeled R-4   [7 parts|e: 26.00/d:0.10/a:0.50] -   Wheeled R-7   [7 parts|e: 25.00/d:0.10/a:0.50]}
+R-7 is hit with strike coeff 0.5 - damage: 4.0
+R-4 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-4   [7 parts|e: 22.00/d:0.10/a:0.50] -   Wheeled R-7   [7 parts|e: 21.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair { CycloBot R-5   [4 parts|e: 59.00/d:0.10/a:0.50] -  CycloBot R-8   [4 parts|e: 59.00/d:0.10/a:0.50]}
+R-8 is hit with strike coeff 0.5 - damage: 4.0
+R-5 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { CycloBot R-5   [4 parts|e: 43.00/d:0.10/a:0.50] -  CycloBot R-8   [4 parts|e: 43.00/d:0.10/a:0.50]}
+
+Stats for arena: 1234567
+Robots in arena:
+ CycloBot R-11  [4 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 59.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 55.00/d:0.10/a:0.60]
+ Humanoid R-3   [6 parts|e: 55.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 26.00/d:0.10/a:0.50]
+  Wheeled R-13  [7 parts|e: 26.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 21.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 43.00/d:0.10/a:0.50]
+  Wheeled R-4   [7 parts|e: 22.00/d:0.10/a:0.50]
+  Wheeled R-7   [7 parts|e: 21.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 43.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 43.00/d:0.10/a:0.50]
+Robots in repair line:
+ Humanoid R-12  [6 parts|e:  0.00/d:0.10/a:0.60]
+Robots on bench:
+ Humanoid R-9   [6 parts|e: 85.00/d:0.10/a:0.60]
+
+
+Simulating 0 fights
+
+
+Stats for arena: 1234567
+Robots in arena:
+ CycloBot R-11  [4 parts|e: 59.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 59.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 55.00/d:0.10/a:0.60]
+ Humanoid R-3   [6 parts|e: 55.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 26.00/d:0.10/a:0.50]
+  Wheeled R-13  [7 parts|e: 26.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 21.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 43.00/d:0.10/a:0.50]
+  Wheeled R-4   [7 parts|e: 22.00/d:0.10/a:0.50]
+  Wheeled R-7   [7 parts|e: 21.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 43.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 43.00/d:0.10/a:0.50]
+Robots in repair line:
+ Humanoid R-12  [6 parts|e:  0.00/d:0.10/a:0.60]
+Robots on bench:
+ Humanoid R-9   [6 parts|e: 85.00/d:0.10/a:0.60]
+
+
+Simulating 2 fights
+
+Fight #1:
+  before: CombatPair { CycloBot R-11  [4 parts|e: 59.00/d:0.10/a:0.50] -  CycloBot R-14  [4 parts|e: 59.00/d:0.10/a:0.50]}
+R-14 is hit with strike coeff 0.5 - damage: 4.0
+R-11 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { CycloBot R-11  [4 parts|e: 43.00/d:0.10/a:0.50] -  CycloBot R-14  [4 parts|e: 43.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair { Humanoid R-0   [6 parts|e: 55.00/d:0.10/a:0.60] -  Humanoid R-3   [6 parts|e: 55.00/d:0.10/a:0.60]}
+R-3 is hit with strike coeff 0.6 - damage: 5.0
+R-0 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { Humanoid R-0   [6 parts|e: 35.00/d:0.10/a:0.60] -  Humanoid R-3   [6 parts|e: 35.00/d:0.10/a:0.60]}
+
+Stats for arena: 1234567
+Robots in arena:
+  Wheeled R-10  [7 parts|e: 26.00/d:0.10/a:0.50]
+  Wheeled R-13  [7 parts|e: 26.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 85.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 21.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 43.00/d:0.10/a:0.50]
+  Wheeled R-4   [7 parts|e: 22.00/d:0.10/a:0.50]
+  Wheeled R-7   [7 parts|e: 21.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 43.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 43.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 43.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 43.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 35.00/d:0.10/a:0.60]
+ Humanoid R-3   [6 parts|e: 35.00/d:0.10/a:0.60]
+Robots in repair line:
+ Humanoid R-12  [6 parts|e:  0.00/d:0.10/a:0.60]
+Robots on bench:
+ Humanoid R-9   [6 parts|e: 85.00/d:0.10/a:0.60]
+
+
+Simulating 4 fights
+
+Fight #1:
+  before: CombatPair {  Wheeled R-10  [7 parts|e: 26.00/d:0.10/a:0.50] -   Wheeled R-13  [7 parts|e: 26.00/d:0.10/a:0.50]}
+R-13 is hit with strike coeff 0.5 - damage: 4.0
+R-10 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-10  [7 parts|e: 22.00/d:0.10/a:0.50] -   Wheeled R-13  [7 parts|e: 22.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair { Humanoid R-6   [6 parts|e: 85.00/d:0.10/a:0.60] -   Wheeled R-1   [7 parts|e: 21.00/d:0.10/a:0.50]}
+R-1 is hit with strike coeff 0.6 - damage: 5.0
+R-6 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-6   [6 parts|e: 61.00/d:0.10/a:0.60] -   Wheeled R-1   [7 parts|e: 16.00/d:0.10/a:0.50]}
+Fight #3:
+  before: CombatPair { CycloBot R-2   [4 parts|e: 43.00/d:0.10/a:0.50] -   Wheeled R-4   [7 parts|e: 22.00/d:0.10/a:0.50]}
+R-4 is hit with strike coeff 0.5 - damage: 4.0
+R-2 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { CycloBot R-2   [4 parts|e: 31.00/d:0.10/a:0.50] -   Wheeled R-4   [7 parts|e: 18.00/d:0.10/a:0.50]}
+Fight #4:
+  before: CombatPair {  Wheeled R-7   [7 parts|e: 21.00/d:0.10/a:0.50] -  CycloBot R-5   [4 parts|e: 43.00/d:0.10/a:0.50]}
+R-5 is hit with strike coeff 0.5 - damage: 4.0
+R-7 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-7   [7 parts|e: 17.00/d:0.10/a:0.50] -  CycloBot R-5   [4 parts|e: 31.00/d:0.10/a:0.50]}
+
+Stats for arena: 1234567
+Robots in arena:
+ CycloBot R-8   [4 parts|e: 43.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 43.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 43.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 35.00/d:0.10/a:0.60]
+ Humanoid R-3   [6 parts|e: 35.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 22.00/d:0.10/a:0.50]
+  Wheeled R-13  [7 parts|e: 22.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 61.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 16.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 31.00/d:0.10/a:0.50]
+  Wheeled R-4   [7 parts|e: 18.00/d:0.10/a:0.50]
+  Wheeled R-7   [7 parts|e: 17.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 31.00/d:0.10/a:0.50]
+Robots in repair line:
+ Humanoid R-12  [6 parts|e:  0.00/d:0.10/a:0.60]
+Robots on bench:
+ Humanoid R-9   [6 parts|e: 85.00/d:0.10/a:0.60]
+
+
+Simulating 5 fights
+
+Fight #1:
+  before: CombatPair { CycloBot R-8   [4 parts|e: 43.00/d:0.10/a:0.50] -  CycloBot R-11  [4 parts|e: 43.00/d:0.10/a:0.50]}
+R-11 is hit with strike coeff 0.5 - damage: 4.0
+R-8 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { CycloBot R-8   [4 parts|e: 31.00/d:0.10/a:0.50] -  CycloBot R-11  [4 parts|e: 31.00/d:0.10/a:0.50]}
+Fight #2:
+  before: CombatPair { CycloBot R-14  [4 parts|e: 43.00/d:0.10/a:0.50] -  Humanoid R-0   [6 parts|e: 35.00/d:0.10/a:0.60]}
+R-0 is hit with strike coeff 0.5 - damage: 4.0
+R-14 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair { CycloBot R-14  [4 parts|e: 29.00/d:0.10/a:0.50] -  Humanoid R-0   [6 parts|e: 27.00/d:0.10/a:0.60]}
+Fight #3:
+  before: CombatPair { Humanoid R-3   [6 parts|e: 35.00/d:0.10/a:0.60] -   Wheeled R-10  [7 parts|e: 22.00/d:0.10/a:0.50]}
+R-10 is hit with strike coeff 0.6 - damage: 5.0
+R-3 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair { Humanoid R-3   [6 parts|e: 27.00/d:0.10/a:0.60] -   Wheeled R-10  [7 parts|e: 17.00/d:0.10/a:0.50]}
+Fight #4:
+  before: CombatPair {  Wheeled R-13  [7 parts|e: 22.00/d:0.10/a:0.50] -  Humanoid R-6   [6 parts|e: 61.00/d:0.10/a:0.60]}
+R-6 is hit with strike coeff 0.5 - damage: 4.0
+R-13 is hit with strike coeff 0.6 - damage: 5.0
+   after: CombatPair {  Wheeled R-13  [7 parts|e: 17.00/d:0.10/a:0.50] -  Humanoid R-6   [6 parts|e: 43.00/d:0.10/a:0.60]}
+Fight #5:
+  before: CombatPair {  Wheeled R-1   [7 parts|e: 16.00/d:0.10/a:0.50] -  CycloBot R-2   [4 parts|e: 31.00/d:0.10/a:0.50]}
+R-2 is hit with strike coeff 0.5 - damage: 4.0
+R-1 is hit with strike coeff 0.5 - damage: 4.0
+   after: CombatPair {  Wheeled R-1   [7 parts|e: 12.00/d:0.10/a:0.50] -  CycloBot R-2   [4 parts|e: 23.00/d:0.10/a:0.50]}
+
+Stats for arena: 1234567
+Robots in arena:
+  Wheeled R-4   [7 parts|e: 18.00/d:0.10/a:0.50]
+  Wheeled R-7   [7 parts|e: 17.00/d:0.10/a:0.50]
+ CycloBot R-5   [4 parts|e: 31.00/d:0.10/a:0.50]
+ CycloBot R-8   [4 parts|e: 31.00/d:0.10/a:0.50]
+ CycloBot R-11  [4 parts|e: 31.00/d:0.10/a:0.50]
+ CycloBot R-14  [4 parts|e: 29.00/d:0.10/a:0.50]
+ Humanoid R-0   [6 parts|e: 27.00/d:0.10/a:0.60]
+ Humanoid R-3   [6 parts|e: 27.00/d:0.10/a:0.60]
+  Wheeled R-10  [7 parts|e: 17.00/d:0.10/a:0.50]
+  Wheeled R-13  [7 parts|e: 17.00/d:0.10/a:0.50]
+ Humanoid R-6   [6 parts|e: 43.00/d:0.10/a:0.60]
+  Wheeled R-1   [7 parts|e: 12.00/d:0.10/a:0.50]
+ CycloBot R-2   [4 parts|e: 23.00/d:0.10/a:0.50]
+Robots in repair line:
+ Humanoid R-12  [6 parts|e:  0.00/d:0.10/a:0.60]
+Robots on bench:
+ Humanoid R-9   [6 parts|e: 85.00/d:0.10/a:0.60]
+
+Simulation ends.
+The winner is:  Humanoid R-6   [6 parts|e: 43.00/d:0.10/a:0.60]
